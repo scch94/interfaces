@@ -1,5 +1,6 @@
 package main
 
+/*
 import "fmt"
 
 type Byer interface {
@@ -51,6 +52,7 @@ func All(gb ...GreeterByer) {
 	}
 }
 
+/*
 func main() {
 	//var g Greeter = &Person{Name: "alejandro"}
 	p := Person{Name: "santiago"}
@@ -59,3 +61,4 @@ func main() {
 	All(p, t)
 
 }
+*/
